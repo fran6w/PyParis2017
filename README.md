@@ -2,7 +2,7 @@
 
 ![PyParis 2017](https://raw.githubusercontent.com/fran6w/PyParis2017/master/PyParis.png)
 
-The aim of the workshop is to put into action the *Pandas* Python library to deal with real data. It is intended for beginners and will be based on a notebook comprising a dataset to perform in-depth analysis. Basic to advanced functionalities of *Pandas* and *Matplotlib* will be experimented during the session.
+The aim of the workshop is to put into action the *Pandas* Python library to deal with real data. It is intended for beginners and will be based on a notebook comprising 2 datasets to perform in-depth analysis. Basic to advanced functionalities of *Pandas* and *Matplotlib* will be experimented during the session.
 
 The workshop is based on 2 datasets:
 
